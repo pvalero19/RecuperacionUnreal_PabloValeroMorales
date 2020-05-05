@@ -1,0 +1,14 @@
+Puntos realizados:
+
+terrain
+
+mapear acciones: 'F' - el player respawnea / 'Enter' - se reproduce una secuencia
+                      
+triggers: monedas / sonido al saltar 
+
+Crear un sonido que se lanza desde una animacion y se modifica el pitch
+
+Crear una IA que salta si ve al player
+
+extras: he implementado una zona de muerte , una zona de inversión de controles y un ciclo de dia y noche
+
